@@ -1,16 +1,28 @@
-## Hi there 👋
+**Olá! 👋**
+Estudante de Análise e Desenvolvimento de Sistemas
 
-<!--
-**francielenascimento-hub/francielenascimento-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre mim**
+- Estudante de ADS na FATEC.
+- Interesse em desenvolvimento de software e tecnologia.
+- Sempre buscando aprender e desenvolver novos projetos.
 
-Here are some ideas to get you started:
+**Tecnologias**
+- C++
+- Python
+- SQL
+- HTML e CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Atualmente estudando**
+- Banco de Dados
+- Python
+- Desenvolvimento de projetos colaborativos.
+
+**Projetos**
+
+- [Lista Maravilhosa do GitHub — projeto acadêmico colaborativo.](https://github.com/m0biius2/listamaravilhosaopensource)
+- [Projeto Completo de Banco de Dados]
+
+📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/franciele-nascimento-0a25041a2/)
+- E-mail profissional
