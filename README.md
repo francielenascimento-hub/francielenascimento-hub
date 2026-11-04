@@ -1,5 +1,5 @@
 **Olá! 👋**
-Estudante de Análise e Desenvolvimento de Sistemas
+<br>Estudante de Análise e Desenvolvimento de Sistemas
 
 **Sobre mim**
 - Estudante de ADS na FATEC.
@@ -23,6 +23,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 - [Lista Maravilhosa do GitHub — projeto acadêmico colaborativo.](https://github.com/m0biius2/listamaravilhosaopensource)
 - [Projeto Completo de Banco de Dados]
 
-📫 Contato
+**Contato**
 - [LinkedIn](https://www.linkedin.com/in/franciele-nascimento-0a25041a2/)
 - E-mail profissional
