@@ -21,7 +21,7 @@
 **Projetos**
 
 - [Lista Maravilhosa do GitHub — projeto acadêmico colaborativo.](https://github.com/m0biius2/listamaravilhosaopensource)
-- [Projeto Completo de Banco de Dados]
+- [Projeto Prático Completo de Banco de Dados](https://github.com/francielenascimento-hub/Projeto-Banco-de-Dados)
 
 **Contato**
 - [LinkedIn](https://www.linkedin.com/in/franciele-nascimento-0a25041a2/)
