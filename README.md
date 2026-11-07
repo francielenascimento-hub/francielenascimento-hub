@@ -25,4 +25,4 @@
 
 **Contato**
 - [LinkedIn](https://www.linkedin.com/in/franciele-nascimento-0a25041a2/)
-- E-mail profissional
+- [E-mail profissional](francielenascimentowork@gmail.com)
