@@ -20,6 +20,8 @@
 
 **Projetos**
 
+- [Conversor de Bases em C++](https://github.com/francielenascimento-hub/ConversordeBases_cpp)
+- [Site de Catálogo de Filmes](https://github.com/francielenascimento-hub/Projeto-Catalogo-de-Filmes-Javascript)
 - [Lista Maravilhosa do GitHub — projeto acadêmico colaborativo.](https://github.com/m0biius2/listamaravilhosaopensource)
 - [Projeto Prático Completo de Banco de Dados](https://github.com/francielenascimento-hub/Projeto-Banco-de-Dados)
 
